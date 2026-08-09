@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-wjkajb.pagotsrjetastuys.shop/sitemap.xml
